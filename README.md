@@ -15,4 +15,4 @@ The circuit is quite simple, it can be built in a small perfboard as shown by th
 ![Photo 1](photo1.jpg)
 ![Photo 2](photo2.jpg)
 
-Video: coming soon
+[Demo video (with real cats!)](https://www.youtube.com/watch?v=83AkypU0tw0)
